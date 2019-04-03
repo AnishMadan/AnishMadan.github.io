@@ -21,7 +21,7 @@ projects:
   # sort_by options:
   #   - pushed
   #   - stars
-  limit: 3
+  limit: 9
   exclude:
     forks: true
     projects:
@@ -53,6 +53,6 @@ topics:
     web_url: https://github.com/topics/python
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/gradle/python.png
 
-  - name: DevOps
-    web_url: https://github.com/topics/kubernetes
-    image_url: https://raw.githubusercontent.com/github/explore/46beb428f6ba77f5de33ba7633402379aba5d92d/topics/kubernetes/kubernetes.png
+  - name: Gradle
+    web_url: https://github.com/topics/gradle
+    image_url: https://raw.githubusercontent.com/github/explore/e63ac6ef59c5c316574b0d31942f0534e51265a8/topics/gradle/gradle.png
